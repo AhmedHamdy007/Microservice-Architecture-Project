@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Java build output
+java-producer/target/
+*.class
+*.jar
+*.war
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+*.env
+*.key
+*.pem
+*.crt
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+scripts/tempCodeRunnerFile.bat
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/ 
